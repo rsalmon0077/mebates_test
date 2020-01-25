@@ -1,0 +1,16 @@
+# User config
+author: "Nice Lady, designer extrordinaire"
+tagline: "This is the Nice Lady's Site"
+description: "She's a rockstar designer"
+keywords: "designer"
+email: "nice.lady@gmail.com"
+linkedin: "https://www.linkedin.com/"
+twitter: "https://twitter.com/@niceone"
+github: "https://github.com/"
+
+# Site config
+baseurl: "/mebates_test"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
